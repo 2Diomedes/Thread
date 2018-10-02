@@ -1,0 +1,6 @@
+@import "tools";
+@import "main";
+
+html, body {
+    @include noMP;
+}
